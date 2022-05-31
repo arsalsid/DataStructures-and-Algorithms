@@ -11,7 +11,7 @@ public class SecondHighestValueOfArray {
         //Declaration of Array
         int[] number = {2,4,6,7,8,3};
 
-        //Let take sum variable
+        //Let takes sum variable
         int sum = 0;
 
         //Use built-in function for sorting the values of array
