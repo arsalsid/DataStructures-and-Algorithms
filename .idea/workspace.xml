@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a24bb1a-a848-49b2-b63f-b7407105212b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/List/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/List/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/List/YearAndCentury.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +43,26 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Polygon">
+  <component name="RunManager" selected="Application.MyFunction">
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.LinearSearch" />
       <module name="DataStructures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.MyFunction" />
+      <module name="DataStructures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFunction" />
         <item itemvalue="Application.Polygon" />
         <item itemvalue="Application.SecondHighestValueThroughList" />
         <item itemvalue="Application.SecondHighestValueOfArray" />
@@ -126,16 +141,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/List/Polygon.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
